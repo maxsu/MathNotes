@@ -1,5 +1,7 @@
 # Title: The Political Test As A Category [DRAFT I]
 
+$\newcommand{\R}{\textbb{R}}$
+
 ###### Reading Time: 5 minutes
 
 ### Summary
